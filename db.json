@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Fig Leaf",
+      "image": "https://www.mashtalegypt.com/media/fiddle-leaf-fig-set.jpg",
+      "price": "22.23",
+      "id": 8
+    },
+    {
+      "name": "Fig Leaf",
+      "image": "https://www.mashtalegypt.com/media/fiddle-leaf-fig-set.jpg",
+      "price": "22.23",
+      "id": 9
     }
   ]
 }
